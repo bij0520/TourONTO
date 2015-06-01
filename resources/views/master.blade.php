@@ -9,10 +9,10 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title></title>
+    <title>@yield('title')</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="('css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/full-slider.css" rel="stylesheet">
@@ -70,7 +70,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
+                    <p>Copyright &copy; TourONTO 2015</p>
                 </div>
             </div>
             <!-- /.row -->
